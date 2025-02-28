@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+//public class Camion implements Iterable {
 public class Camion implements Iterable {
     private List objetos;
     private int maximoObjetos;
